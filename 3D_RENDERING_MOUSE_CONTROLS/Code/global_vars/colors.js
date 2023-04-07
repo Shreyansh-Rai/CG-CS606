@@ -1,0 +1,1 @@
+export var platformcolor = [0.5,0.5,0.5,1];
