@@ -1,7 +1,7 @@
 # CG-CS606
 # Assignment 1 Refer to the Report attached [CG_A1_IMT2020501_Report.pdf](https://github.com/Shreyansh-Rai/CG-CS606/files/11636639/CG_A1_IMT2020501_Report.pdf)
 
-# Assingment 2 Refer to the Report Attacher https://github.com/Shreyansh-Rai/CG-CS606/blob/main/3D_RENDERING_MOUSE_CONTROLS/CG%20Report.pdf
+# Assingment 2 Refer to the Report Attached https://github.com/Shreyansh-Rai/CG-CS606/blob/main/3D_RENDERING_MOUSE_CONTROLS/CG%20Report.pdf
 
 # Assignment 3 To run install vite. run :  npm install and npx vite. this will start the server where you can interact with the project
 ### I have implemented the Phong, Blinn-Phong and Gouraud Shaders from scratch in this Code. There is also texture mapping to a sphere.
