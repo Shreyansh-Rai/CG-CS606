@@ -5,10 +5,10 @@
 
 # Assignment 3 To run install vite. run :  npm install and npx vite. this will start the server where you can interact with the project
 ### I have implemented the Phong, Blinn-Phong and Gouraud Shaders from scratch in this Code. There is also texture mapping to a sphere.
-### All of this is done at a very low level using glsl and no other module like three js was used here. (<img width="1159" alt="<img width="1240" alt="2 lights blinn phong" src="https://github.com/Shreyansh-Rai/CG-CS606/assets/75561611/696e3699-fdf8-4a43-9eb6-fc6f1395280e">
-Gouraud" src="https://github.com/Shreyansh-Rai/CG-CS606/assets/75561611/25ea2a76-aaf5-45ba-8699-b54aed3d4d24">
-<img width="1220" alt="Phong" src="https://github.com/Shreyansh-Rai/CG-CS606/assets/75561611/f31f0205-9378-4429-b6bd-4a414e94c981">
-)
+### All of this is done at a very low level using glsl and no other module like three js was used here. 
+<img width="1240" alt="2 lights blinn phong" src="https://github.com/Shreyansh-Rai/CG-CS606/assets/75561611/b68115f9-f36a-484d-a772-2ecaa04a7a09">
+<img width="1159" alt="Gouraud" src="https://github.com/Shreyansh-Rai/CG-CS606/assets/75561611/77d5f46d-59ba-4c6e-b856-303cd8d3704f">
+<img width="1220" alt="Phong" src="https://github.com/Shreyansh-Rai/CG-CS606/assets/75561611/a2ed53a4-069a-4ba5-a710-136f4402e85c">
 
 #### Attached are some photos of the same Note that the blinn Phong implementation also has an extra light source.
 
